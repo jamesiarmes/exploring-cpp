@@ -1,4 +1,6 @@
 chapter-*/listing*
 chapter-*/exercise*
+chapter-*/*.out
 
 !*.cpp
+/Release/
